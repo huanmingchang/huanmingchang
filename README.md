@@ -1,19 +1,9 @@
 <h1 align="center">Hi 👋, I'm Huanming Chang</h1>
 <h3 align="center">A beginner learning JavaScript / HTML / CSS</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=huanmingchang&label=Profile%20views&color=0e75b6&style=flat" alt="huanmingchang" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=huanmingchang" alt="huanmingchang" /></a> </p>
-
 - 🌱 I’m currently learning **JavaScript**
 
 - 👨‍💻 All of my projects are available at [https://github.com/huanmingchang](https://github.com/huanmingchang)
-
-- 📝 I regularly write articles on [https://huanming.medium.com/](https://huanming.medium.com/)
-
-- 📫 How to reach me **huanming1988@gmail.com**
-
-- 📄 Know about my experiences [https://www.linkedin.com/in/huanmingchang/](https://www.linkedin.com/in/huanmingchang/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
